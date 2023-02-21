@@ -1,0 +1,80 @@
+<html>
+<head>
+    <style type="text/css">
+     #divmain{
+        background-color:rgb(0, 128, 122);
+        margin:10  400 0 400;
+        padding:50 30 30  50;
+        border:red solid 10px;
+     }
+     label{
+        font-size:20px;   
+     }
+     
+     #heading{
+        background-color:coral;
+        margin:10  400 10 400;
+        text-align: center;
+
+     }
+    </style>
+</head>
+<body> 
+    <div id="heading">
+     <h1>Student Registration from</h1>
+    </div>
+    <div id="divmain">
+    <form action="">
+        <div id="div5">
+            
+            <img src="D:\sayali\FullStack_Assingment_Repositry\CSS_Final\css_jan_2023\Sayali_Salokhe\20-2-23_Margin_padding\download.jpg"
+            height="90px"
+            width="65px"
+            alt="Image not selected">
+            <br><label for="">Upload Photo</label>
+        </div>
+        <div id="div1">
+        <label for="id_fname">First Name</label><br>
+        <input type="text" name="Fname" id="id_fname"   placeholder="Enter First Name" style="height:30px;width:300;"">
+        </div>
+        <div id="div2">
+        <label for="id_lname">Last Name</label><br>
+        <input type="text" name="lname" id="id_lname" placeholder="Enter Last Name" style="height:30px;width:300;">
+        </div>
+        <div id="div3">
+        <label for="id_email">Email</label><br>
+        <input type="email" name="email" id="id_email" placeholder="Enter Email" style="height:30px;width:300;">
+        </div>
+        <div id="div3">
+        <label for="id_date">Birth Date</label><br>
+        <input type="date" name="date" id="id_date" placeholder="Enter date" style="height:30px;width:300;">
+        </div>
+        <div id="div4">
+        <label for="gender">Select gender</label></br>
+        <input type="radio" name="gender" id="M_gender">Male<br>
+        <input type="radio" name="gender" id="F_gender">Female<br>
+        <input type="radio" name="gender" id="O_gender">Other
+        </div>
+        <div>
+        <label for="phone_no">Mobile No.</label><br>
+        <input type="tel" name="phone_no" placeholder="Enter Phone Number" id="id_phno" style="height:30px;width:300;">
+        </div>
+        <div>
+        <label for="Address">Current Address</label><br>
+        <textarea name="Address" id="id_Address" placeholder="Enter Address" cols="50" rows="5"></textarea>
+        </div>
+        <div>
+        <label for="">Upload Document</label><br>
+        <input type="file">
+        </div><br>
+        <div>
+        <label for="submit"></label>
+        <input type="submit" name="submit" value="submit" style="height:30px;width:60px;">
+        <label for="reset"></label>
+        <input type="reset" name="reset" value="reset" style="height:30px;width:60px;">
+        </div>
+    </form>
+    </div>
+
+</body>
+</html>
