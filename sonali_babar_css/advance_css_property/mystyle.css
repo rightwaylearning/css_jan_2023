@@ -1,0 +1,28 @@
+
+html{
+    background-color: pink;
+}
+#table
+{
+    color:brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30;
+
+}
+#table1
+{
+    color: yellow;
+    background-color: orange;
+}
+p{
+    color:blue;
+    font-size: 40;
+
+
+}
+#div1
+{
+    border:20px solid black;
+    background-color: turquoise;
+    display: block;
+}
