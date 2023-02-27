@@ -2,12 +2,17 @@ body{
    background-color: pink;
 }
 #id1{
+    padding: 5%;
     color: azure;
     height: 200px;
     width: 300px;
     border: 5px solid green;
     overflow: auto;
+
 }
 h1{
     color: white;
+}
+div{
+    text-align: center;
 }
