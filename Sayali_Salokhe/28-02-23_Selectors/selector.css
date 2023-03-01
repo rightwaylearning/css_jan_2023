@@ -1,0 +1,35 @@
+/* Tag selector*/
+html{
+    background-color: cadetblue;
+}
+/*Id selector*/
+#div1{
+    background-color: rgb(25, 156, 13);
+    height: 500px;
+    width: 700px;
+}
+#div2{
+    background-color:rgb(163, 83, 179);
+    height: 300px;
+    width: 300px;
+}
+
+/*class selector*/
+.class1{
+    color: rgb(255, 60, 0);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+/*Compound selector*/
+h6.class1{
+    color:blue ;
+}
+
+/*grouping selector*/
+h2,h4{
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
