@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: pink;
+}
+form{
+color: brown;
+text-align:center;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-skip:;
+}
+h3{
+    color: yellow;
+}
