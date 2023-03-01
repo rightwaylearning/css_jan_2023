@@ -1,0 +1,6 @@
+/* child selector */
+div p{
+    border: 10px solid black;
+    color: red;
+    margin: 10px;
+}
