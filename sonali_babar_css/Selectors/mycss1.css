@@ -1,0 +1,14 @@
+/* css child selector  div is parent and p and h3 is child */
+div p
+{
+    border: 5px solid red;
+    color: blue;
+}
+
+div h3{
+    color:black;
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: center;
+}
+
