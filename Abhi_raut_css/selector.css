@@ -1,0 +1,26 @@
+
+/* here body is tagged selector*/
+body{
+    background-color: aqua;
+}
+/* here #div1 is id selector*/
+#div1{
+    color: black;
+    background-color: yellow;
+    border: 5px solid red;
+}
+
+/* here p is child selector*/
+p{
+    color: rgb(255, 25, 25);
+}
+
+/* here this is grouping selector*/
+
+h1 h4 {
+    color: black;
+    background-color: yellow;
+    border: 5px solid red;
+    
+
+}

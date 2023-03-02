@@ -1,0 +1,9 @@
+html{
+    background-color: pink;
+}
+#div1{
+    border: 2px solid green;
+    height: 100px;
+    width: 200px;
+    overflow: auto;
+}
