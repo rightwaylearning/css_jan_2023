@@ -1,0 +1,8 @@
+body{
+    background-color: bisque;
+    border: 10px solid purple;
+}
+img:hover{
+    background-color: violet;
+    border: 10px solid black;
+}

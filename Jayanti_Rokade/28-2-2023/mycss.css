@@ -1,0 +1,38 @@
+   
+/* here selector is tag */
+body{
+    border: 10px solid red;
+    background-color: rgb(198, 211, 138);
+}
+
+/* here selector is tag */
+h3{
+    border: 10px DOUBLE rgb(85, 29, 215);
+    color: rgb(92, 205, 186);
+    margin: 30px;
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+}
+
+
+/* id is selector */
+#id1{
+   border: 2px solid rgb(0, 0, 0);
+   color: rgb(230, 154, 13);
+   margin: 20px;
+   font-size: 30px;
+   font-family:'Times New Roman', Times, serif;
+   font-weight: bold;
+}
+
+/* here class is selector */
+h2.html_info{
+   color: brown;
+   margin: 10px;
+   border: 5px solid black;
+   font-size: 20px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: bold;
+}
+
