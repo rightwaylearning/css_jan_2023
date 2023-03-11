@@ -1,0 +1,19 @@
+div{
+    margin: 50px;
+    border: 10px solid black;
+}
+
+img[src="vijay.jpg"]{
+    padding: 50px;
+    border: 2px solid red;
+}
+
+img[src="vijay1.jpg"]{
+    padding: 50px;
+    border: 2px solid red;
+}
+
+img:hover{
+    border: 10px solid red;
+    background-color: skyblue;
+}
