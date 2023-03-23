@@ -1,0 +1,7 @@
+div p{
+    border: 15px solid red;
+    background-color: pink;
+}
+div>p{
+    border: 15px solid blue;
+}

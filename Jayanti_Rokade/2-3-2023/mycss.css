@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(228, 145, 45);
+    border: 10px solid purple;
+    margin: 30px;
+}
+img:hover{
+    background-color: rgb(26, 45, 188);
+    border: 10px double rgb(204, 38, 68);
+    margin: 30px;
+}

@@ -1,0 +1,47 @@
+/* css on tag selector */
+body{
+
+    background-color: pink;
+    border: 10px solid black;
+}
+/* css on tag selector */
+h2
+{
+    border: 5px solid red;
+    color: brown;
+    margin: 10px;
+    text-align: center;
+
+}
+/* css on attribute selector id is unique */
+#id1
+{
+    border:5px solid red;
+    color: purple;
+    margin: 10px;
+
+
+}
+/* css on attribute class selector we can use multiple tag as same class value  */
+
+.movie_info
+{
+    border:5px solid green;
+    color:red;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+
+
+}
+/* css on attribute class selector using compound selector  */
+ h5.movie_info
+{
+    border:5px solid green;
+    color:red;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+
+}

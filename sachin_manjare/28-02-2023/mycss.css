@@ -1,0 +1,18 @@
+body{
+border: 2px solid red;
+background-color: rgb(195, 195, 201);
+margin-top: 20px;
+
+}
+#id1{
+border: 20px solid rgb(234, 230, 230);
+font-size: 10px;
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+
+}
+.Movie_info{
+
+color: beige;
+
+}

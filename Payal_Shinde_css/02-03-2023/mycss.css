@@ -1,0 +1,8 @@
+/* child selector no matter how match depth that child inside div */
+ /* if u want direct child selector */
+div p{
+    display: block;
+    border: 10px solid black;
+    color: red;
+    margin: 10px;
+}

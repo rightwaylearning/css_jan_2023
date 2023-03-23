@@ -1,0 +1,12 @@
+   
+html{
+    background-color: pink;
+}   
+#id1{
+    height: 200px;
+    width: 100px;
+    border: 2px solid red;
+    overflow: auto;
+    color:chartreuse;
+    
+}

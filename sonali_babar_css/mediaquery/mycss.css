@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+div{
+    border: 10px solid red ;
+}
+h3{
+    font-size: 30px;
+}
+@media screen and (max-width:576px) {
+   h3{
+    background-color:pink;
+    font-size: 10px;
+
+   }
+}
+@media screen and (max-width:576px){
+    h3{
+        font-size: 20px;
+    }
+}

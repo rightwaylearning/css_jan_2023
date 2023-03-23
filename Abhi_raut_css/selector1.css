@@ -1,0 +1,16 @@
+/*class selector*/
+
+.movie{
+    color: rgb(197, 27, 27);
+    background-color: rgb(255, 251, 0);
+    border: 5px splid black;
+    margin: 5%;
+}
+
+/*compound selector*/
+h3.movie{
+
+    color:rgb(240, 30, 30);
+
+
+}
